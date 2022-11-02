@@ -1,0 +1,5 @@
+button {
+  background: linear-gradient(0deg, #ffffff, #ffffff),
+    linear-gradient(180deg, #ffffff 0%, #f7c23a 100%);
+  transition: all 0.3s linear;
+}
